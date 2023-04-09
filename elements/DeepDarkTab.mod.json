@@ -1,0 +1,11 @@
+{
+  "_fv": 33,
+  "_type": "tab",
+  "definition": {
+    "name": "Deep Dark",
+    "icon": {
+      "value": "CUSTOM:SculkChute"
+    },
+    "showSearch": false
+  }
+}

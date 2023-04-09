@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 ",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "new_blocks:burger_top_bun"
+    },
+    "2": {
+      "item": "minecraft:cooked_beef"
+    },
+    "3": {
+      "item": "new_blocks:cheese"
+    },
+    "4": {
+      "item": "new_blocks:burger_bottom_bun"
+    }
+  },
+  "result": {
+    "item": "new_blocks:burger_cheese",
+    "count": 1
+  }
+}

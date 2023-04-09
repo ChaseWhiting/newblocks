@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "new_blocks:burger_top_bun"
+    },
+    {
+      "item": "new_blocks:cheese"
+    },
+    {
+      "item": "minecraft:cooked_beef"
+    },
+    {
+      "item": "new_blocks:tomato_slice"
+    },
+    {
+      "item": "new_blocks:burger_bottom_bun"
+    }
+  ],
+  "result": {
+    "item": "new_blocks:burger_tomato_cheese",
+    "count": 1
+  }
+}

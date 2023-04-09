@@ -1,0 +1,7 @@
+{
+  "parent": "new_blocks:custom/goat_horn",
+  "textures": {
+    "particle": "new_blocks:items/goat_horn",
+    "layer0": "new_blocks:items/goat_horn"
+  }
+}

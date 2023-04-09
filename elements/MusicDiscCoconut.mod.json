@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_coconut",
+    "name": "Music Disc",
+    "description": "Coconut",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:music.disc.coconut"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

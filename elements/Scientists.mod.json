@@ -1,0 +1,20 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "CUSTOM:BlueScientist"
+      },
+      {
+        "value": "CUSTOM:ScientistThompson"
+      }
+    ],
+    "name": "scientists",
+    "namespace": "mod"
+  }
+}

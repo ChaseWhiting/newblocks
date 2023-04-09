@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "new_blocks:tomato"
+    },
+    {
+      "item": "new_blocks:tomato"
+    },
+    {
+      "item": "new_blocks:tomato"
+    },
+    {
+      "item": "new_blocks:tomato"
+    },
+    {
+      "item": "new_blocks:tomato"
+    },
+    {
+      "item": "new_blocks:tomato"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "new_blocks:tomato_soup",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "new_blocks:blocks/corroded_block_1st",
+    "up": "new_blocks:blocks/corroded_block_1st",
+    "north": "new_blocks:blocks/corroded_block_1st",
+    "east": "new_blocks:blocks/corroded_block_1st",
+    "south": "new_blocks:blocks/corroded_block_1st",
+    "west": "new_blocks:blocks/corroded_block_1st",
+    "particle": "new_blocks:blocks/corroded_block_1st"
+  }
+}

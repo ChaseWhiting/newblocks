@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "new_blocks:threepeater",
+    "new_blocks:peashooter",
+    "new_blocks:chomper_full",
+    "new_blocks:snow_peashooter",
+    "new_blocks:gatling_peashooter",
+    "new_blocks:wallnut",
+    "new_blocks:melon_pult",
+    "new_blocks:bonk_choy",
+    "new_blocks:chomper"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "new_blocks:sculk_chute"
+    },
+    "title": {
+      "translate": "advancements.it_spreads.title"
+    },
+    "description": {
+      "translate": "advancements.it_spreads.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "it_spreads": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 6
+  },
+  "parent": "minecraft:adventure/summon_iron_golem"
+}

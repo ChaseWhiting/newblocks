@@ -1,0 +1,138 @@
+{
+  "_fv": 33,
+  "_type": "livingentity",
+  "definition": {
+    "mobName": "Warden",
+    "mobLabel": "",
+    "mobModelName": "Modelwarden_in_ground_1",
+    "mobModelTexture": "warden_in_ground.png",
+    "mobModelGlowTexture": "",
+    "modelWidth": 0.8,
+    "modelHeight": 1.2000000000000002,
+    "modelShadowSize": 1.4,
+    "mountedYOffset": 5.0,
+    "hasSpawnEgg": true,
+    "spawnEggBaseColor": {
+      "value": -15705767,
+      "falpha": 0.0
+    },
+    "spawnEggDotColor": {
+      "value": -5262213,
+      "falpha": 0.0
+    },
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "isBoss": false,
+    "bossBarColor": "BLUE",
+    "bossBarType": "PROGRESS",
+    "equipmentMainHand": {
+      "value": ""
+    },
+    "equipmentOffHand": {
+      "value": ""
+    },
+    "equipmentHelmet": {
+      "value": ""
+    },
+    "equipmentBody": {
+      "value": ""
+    },
+    "equipmentLeggings": {
+      "value": ""
+    },
+    "equipmentBoots": {
+      "value": ""
+    },
+    "mobBehaviourType": "Mob",
+    "mobCreatureType": "UNDEFINED",
+    "attackStrength": 36,
+    "attackKnockback": 1.0999999999999999,
+    "knockbackResistance": 0.7,
+    "movementSpeed": 0.29,
+    "armorBaseValue": 8.9,
+    "trackingRange": 94,
+    "followRange": 16,
+    "health": 360,
+    "xpAmount": 38,
+    "waterMob": false,
+    "flyingMob": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "disableCollisions": false,
+    "ridable": false,
+    "canControlForward": false,
+    "canControlStrafe": false,
+    "immuneToFire": true,
+    "immuneToArrows": true,
+    "immuneToFallDamage": true,
+    "immuneToCactus": true,
+    "immuneToDrowning": true,
+    "immuneToLightning": true,
+    "immuneToPotions": true,
+    "immuneToPlayer": true,
+    "immuneToExplosion": true,
+    "immuneToTrident": true,
+    "immuneToAnvil": true,
+    "immuneToWither": true,
+    "immuneToDragonBreath": true,
+    "mobDrop": {
+      "value": ""
+    },
+    "livingSound": {
+      "value": "CUSTOM:wardenidle"
+    },
+    "hurtSound": {
+      "value": "CUSTOM:warden_hurt_2"
+    },
+    "deathSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": "CUSTOM:sculk_step_block"
+    },
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 0.5,
+    "particleAmount": 4,
+    "onInitialSpawn": {
+      "name": "WardenInGround1OnInitialEntitySpawn"
+    },
+    "hasAI": true,
+    "aiBase": "(none)",
+    "aixml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"aitasks_container\" deletable=\"false\" x=\"71\" y=\"-14\"><next><block type=\"swim_in_water\"><field name=\"condition\">null,null</field></block></next></block></xml>",
+    "breedable": false,
+    "tameable": false,
+    "breedTriggerItems": [],
+    "ranged": false,
+    "rangedAttackItem": {
+      "value": ""
+    },
+    "rangedItemType": "Default item",
+    "spawnThisMob": false,
+    "doesDespawnWhenIdle": true,
+    "spawningCondition": {
+      "name": "WardenNaturalEntitySpawningCondition"
+    },
+    "spawningProbability": 4,
+    "mobSpawningType": "monster",
+    "minNumberOfMobsPerGroup": 1,
+    "maxNumberOfMobsPerGroup": 1,
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:DeepDarkBiome"
+      },
+      {
+        "value": "CUSTOM:SculkVineCaves"
+      },
+      {
+        "value": "CUSTOM:BigSculkCaverns"
+      }
+    ],
+    "spawnInDungeons": false
+  }
+}

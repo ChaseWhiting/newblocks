@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "new_blocks:blocks/extractor_bottom",
+    "up": "new_blocks:blocks/extractor_bottom",
+    "north": "new_blocks:blocks/furnace_side",
+    "east": "new_blocks:blocks/furnace_side",
+    "south": "new_blocks:blocks/furnace_side",
+    "west": "new_blocks:blocks/furnace_side",
+    "particle": "new_blocks:blocks/extractor_bottom"
+  }
+}

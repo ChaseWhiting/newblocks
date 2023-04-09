@@ -1,0 +1,12 @@
+{
+  "_fv": 33,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "RSHIFT",
+    "keyBindingName": "Make Goat Jump",
+    "keyBindingCategoryKey": "creative",
+    "onKeyPressed": {
+      "name": "MakeGoatJumpKeyPress"
+    }
+  }
+}

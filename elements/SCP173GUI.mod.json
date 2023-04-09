@@ -1,0 +1,205 @@
+{
+  "_fv": 33,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "It is constructed from concrete",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "It is constructed from concrete",
+          "x": 133,
+          "y": 51
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "and rebar with traces of",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "and rebar with traces of",
+          "x": 152,
+          "y": 68
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Krylon brand spray paint.",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Krylon brand spray paint.",
+          "x": 148,
+          "y": 80
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "SCP-173 is animate and",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "SCP-173 is animate and",
+          "x": 158,
+          "y": 94
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "extremely hostile. The ",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "extremely hostile. The ",
+          "x": 157,
+          "y": 106
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "object cannot move while",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "object cannot move while",
+          "x": 153,
+          "y": 120
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "within a direct line",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "within a direct line",
+          "x": 135,
+          "y": 131
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "of sight.",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "of sight.",
+          "x": 243,
+          "y": 131
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Line of sight must not",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Line of sight must not",
+          "x": 164,
+          "y": 143
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "broken at any time",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "broken at any time",
+          "x": 176,
+          "y": 155
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Object is reported to attack by",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Object is reported to attack by",
+          "x": 133,
+          "y": 164
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "snapping the neck",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "snapping the neck",
+          "x": 129,
+          "y": 176
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "at the base of",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "at the base of",
+          "x": 222,
+          "y": 176
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Next Page",
+          "onClick": {
+            "name": "SCP173GUIButtonClick"
+          },
+          "width": 72,
+          "height": 20,
+          "name": "Next Page",
+          "x": 230,
+          "y": 187
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

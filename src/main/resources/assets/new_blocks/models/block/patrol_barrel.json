@@ -1,0 +1,11 @@
+{
+  "parent": "new_blocks:custom/patrol_barrel",
+  "textures": {
+    "all": "new_blocks:blocks/patrol_lock",
+    "particle": "new_blocks:blocks/patrol_lock",
+    "0": "new_blocks:blocks/barrel_bottom",
+    "1": "new_blocks:blocks/barrel_side",
+    "2": "new_blocks:blocks/barrel_top",
+    "3": "new_blocks:blocks/patrol_lock"
+  }
+}

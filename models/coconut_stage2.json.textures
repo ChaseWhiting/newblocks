@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "coconut": "coconut_stage2"
+      },
+      "name": "default"
+    }
+  }
+}

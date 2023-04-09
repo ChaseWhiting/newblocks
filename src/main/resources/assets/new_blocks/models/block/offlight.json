@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "new_blocks:blocks/light_off",
+    "up": "new_blocks:blocks/light_off",
+    "north": "new_blocks:blocks/light_off",
+    "east": "new_blocks:blocks/light_off",
+    "south": "new_blocks:blocks/light_off",
+    "west": "new_blocks:blocks/light_off",
+    "particle": "new_blocks:blocks/light_off"
+  }
+}

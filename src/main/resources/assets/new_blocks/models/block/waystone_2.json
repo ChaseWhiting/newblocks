@@ -1,0 +1,8 @@
+{
+  "parent": "new_blocks:custom/waystone",
+  "textures": {
+    "all": "new_blocks:blocks/warp_plate",
+    "particle": "new_blocks:blocks/warp_plate",
+    "1": "new_blocks:blocks/warp_plate"
+  }
+}

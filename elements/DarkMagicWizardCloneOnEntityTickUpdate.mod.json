@@ -1,0 +1,7 @@
+{
+  "_fv": 33,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><variables><variable id=\"posZ\" type=\"Number\">posZ</variable><variable id=\"posx\" type=\"Number\">posx</variable><variable id=\"posy\" type=\"Number\">posy</variable></variables><block deletable=\"false\" type=\"event_trigger\" x=\"40\" y=\"40\"><field name=\"trigger\">no_ext_trigger</field><next><block type=\"wait\"><value name=\"ticks\"><block type=\"math_number\"><field name=\"NUM\">230</field></block></value><statement name=\"do\"><block type=\"controls_if\"><value name=\"IF0\"><block type=\"entity_isalive\"><value name=\"entity\"><block type=\"entity_from_deps\"/></value></block></value><statement name=\"DO0\"><block type=\"entity_despawn\"><value name=\"entity\"><block type=\"entity_from_deps\"/></value></block></statement></block></statement></block></next></block></xml>"
+  }
+}

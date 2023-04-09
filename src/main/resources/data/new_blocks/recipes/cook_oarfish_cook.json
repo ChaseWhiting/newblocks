@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "experience": 1,
+  "cookingtime": 150,
+  "ingredient": {
+    "item": "new_blocks:raw_giant_oarfish"
+  },
+  "result": {
+    "item": "new_blocks:cooked_giant_oarfish"
+  }
+}

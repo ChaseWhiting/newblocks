@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "new_blocks:blocks/pointed_dripstone_up_frustum",
+    "particle": "new_blocks:blocks/pointed_dripstone_up_frustum"
+  }
+}

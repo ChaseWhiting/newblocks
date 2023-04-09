@@ -1,0 +1,7 @@
+{
+  "parent": "new_blocks:custom/m200_sniper",
+  "textures": {
+    "0": "new_blocks:blocks/m200_sniper",
+    "particle": "new_blocks:items/sniper_gun"
+  }
+}

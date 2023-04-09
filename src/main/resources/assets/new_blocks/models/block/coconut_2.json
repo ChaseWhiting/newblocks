@@ -1,0 +1,8 @@
+{
+  "parent": "new_blocks:custom/coconut_stage2",
+  "textures": {
+    "all": "new_blocks:blocks/coconut_stage2",
+    "particle": "new_blocks:blocks/coconut_stage2",
+    "coconut": "new_blocks:blocks/coconut_stage2"
+  }
+}

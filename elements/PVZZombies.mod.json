@@ -1,0 +1,38 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "CUSTOM:NormalZombie"
+      },
+      {
+        "value": "CUSTOM:ConeheadZombie"
+      },
+      {
+        "value": "CUSTOM:AngryNewspaperZombie"
+      },
+      {
+        "value": "CUSTOM:NewspaperZombie"
+      },
+      {
+        "value": "CUSTOM:BucketHeadZombie"
+      },
+      {
+        "value": "CUSTOM:PogoZombie"
+      },
+      {
+        "value": "CUSTOM:ScreendoorZombie"
+      },
+      {
+        "value": "CUSTOM:DuckytubeZombie"
+      }
+    ],
+    "name": "pvz_zombies",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "new_blocks:palm_log"
+    }
+  ],
+  "result": {
+    "item": "new_blocks:palm_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "_fv": 33,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><variables><variable id=\"sus\" type=\"Number\">sus</variable></variables><block deletable=\"false\" type=\"event_trigger\" x=\"211\" y=\"317\"><field name=\"trigger\">entity_pre_hurt</field><next><block type=\"variables_set_number\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" has_entity=\"false\" is_player_var=\"false\"/><field name=\"VAR\">local:sus</field><value name=\"VAL\"><block type=\"math_dual_ops\"><field name=\"OP\">ADD</field><value name=\"A\"><block type=\"custom_dependency_number\"><field name=\"NAME\">amount</field></block></value><value name=\"B\"><block type=\"math_random_number_between\"><value name=\"min\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value><value name=\"max\"><block type=\"world_data_num_getgamerule\"><field name=\"gamerulesnumber\">CUSTOM:DamageTesterTestDamage</field></block></value></block></value></block></value></block></next></block><block type=\"math_number\" x=\"897\" y=\"432\"><field name=\"NUM\">10</field></block><block type=\"variables_get_number\" x=\"211\" y=\"820\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" has_entity=\"false\" is_player_var=\"false\"/><field name=\"VAR\">local:amount</field></block></xml>"
+  }
+}

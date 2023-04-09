@@ -1,0 +1,20 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 1.0,
+    "cookingTime": 400,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:PitchblendeOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:PitchblendeIngot"
+    },
+    "name": "pitchblende_ore_smelt_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_fv": 33,
+  "_type": "fluid",
+  "definition": {
+    "name": "Oil",
+    "bucketName": "Oil Bucket",
+    "textureStill": "oilstill",
+    "textureFlowing": "oil_flow",
+    "tintType": "No tint",
+    "canMultiply": false,
+    "flowRate": 16,
+    "levelDecrease": 3,
+    "slopeFindDistance": 8,
+    "spawnParticles": false,
+    "dripParticle": {
+      "value": "CUSTOM:Sculk"
+    },
+    "flowStrength": 0.2,
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1000,
+    "isGas": false,
+    "temperature": 160,
+    "type": "WATER",
+    "generateBucket": true,
+    "textureBucket": "",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "emptySound": {
+      "value": ""
+    },
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "resistance": 100.0,
+    "luminance": 0,
+    "lightOpacity": 0,
+    "emissiveRendering": false,
+    "tickRate": 20,
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "colorOnMap": "BLACK",
+    "frequencyOnChunks": 1,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [],
+    "generateCondition": {
+      "name": "OilAdditionalGenerationCondition"
+    }
+  }
+}

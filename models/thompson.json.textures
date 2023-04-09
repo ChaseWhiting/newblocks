@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3": "darks",
+        "4": "steel",
+        "5": "wood",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

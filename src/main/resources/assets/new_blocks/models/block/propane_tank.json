@@ -1,0 +1,8 @@
+{
+  "parent": "new_blocks:custom/propane_tank_rusty",
+  "textures": {
+    "all": "new_blocks:blocks/propane_tank_rusty",
+    "particle": "new_blocks:blocks/propane_tank_rusty",
+    "0": "new_blocks:blocks/propane_tank_rusty"
+  }
+}

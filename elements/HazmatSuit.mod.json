@@ -1,0 +1,68 @@
+{
+  "_fv": 33,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": false,
+    "textureHelmet": "",
+    "enableBody": true,
+    "textureBody": "hazmat_suit",
+    "enableLeggings": true,
+    "textureLeggings": "hazmat_suit",
+    "enableBoots": true,
+    "textureBoots": "hazmat_suit",
+    "onBodyTick": {
+      "name": "HazmatSuitBodyTickEvent"
+    },
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "hazmat_armor_",
+    "helmetName": "",
+    "bodyName": "Hazmat Suit",
+    "leggingsName": "Hazmat Pants",
+    "bootsName": "Hazmat Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [
+      "Hazmat suit to protect",
+      "from radiation"
+    ],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Modelhazmat_suit_armor",
+    "bodyModelPart": "head",
+    "armsModelPartL": "left_arm",
+    "armsModelPartR": "right_arm",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Modelhazmat_suit_armor",
+    "leggingsModelPartL": "left_shoe",
+    "leggingsModelPartR": "right_shoe",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Modelhazmat_suit_armor",
+    "bootsModelPartL": "left_shoe",
+    "bootsModelPartR": "right_shoe",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 17,
+    "damageValueHelmet": 0,
+    "damageValueBody": 8,
+    "damageValueLeggings": 3,
+    "damageValueBoots": 1,
+    "enchantability": 0,
+    "toughness": 6.5,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": "item.armor.equip_leather"
+    },
+    "repairItems": [
+      {
+        "value": "Items.LEATHER"
+      }
+    ]
+  }
+}

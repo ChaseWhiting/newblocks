@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="https://github.com/DreamOnGitHub/new_blocks/commit/9f6e9be23fb3388b03f2153e862e84beabc55a8d"
+
+[[mods]]
+modId="new_blocks"
+version="1.16.3"
+displayName="New Blocks"
+credits="https://github.com/DreamOnGitHub"
+displayURL="https://github.com/DreamOnGitHub/new_blocks"
+logoFile="logo.png"
+authors="Dream/DreamOnGitHub"
+description='''
+updated mod, 12/4/2022, fixing bits of bugs and reloading mod.
+'''
+
+[[dependencies.new_blocks]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "new_blocks:bullet",
+    "new_blocks:rifle",
+    "new_blocks:thompson",
+    "new_blocks:pistol",
+    "new_blocks:sniper_rifile",
+    "new_blocks:sniper_bullet",
+    "new_blocks:grenade",
+    "new_blocks:grenade_launcher",
+    "new_blocks:minigun"
+  ]
+}

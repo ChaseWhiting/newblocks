@@ -1,0 +1,533 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "Blocks.DIRT#0"
+      },
+      {
+        "value": "CUSTOM:Grimstone"
+      },
+      {
+        "value": "CUSTOM:Darkstone"
+      },
+      {
+        "value": "CUSTOM:SculkStone"
+      },
+      {
+        "value": "CUSTOM:CobbledGrimstone"
+      },
+      {
+        "value": "CUSTOM:GrimstoneBricks"
+      },
+      {
+        "value": "CUSTOM:ChiseledGrimstone"
+      },
+      {
+        "value": "CUSTOM:PolishedGrimstone"
+      },
+      {
+        "value": "CUSTOM:GrimstoneBrickSlab"
+      },
+      {
+        "value": "CUSTOM:GrimstoneBrickWall"
+      },
+      {
+        "value": "CUSTOM:GrimstoneBrickStairs"
+      },
+      {
+        "value": "CUSTOM:GrimstonePreassurePLate"
+      },
+      {
+        "value": "CUSTOM:GrimstoneButton"
+      },
+      {
+        "value": "CUSTOM:Sandstone"
+      },
+      {
+        "value": "CUSTOM:DarkGrimstone"
+      },
+      {
+        "value": "CUSTOM:StoneSpikes"
+      },
+      {
+        "value": "CUSTOM:Waystone1"
+      },
+      {
+        "value": "CUSTOM:Waystone2"
+      },
+      {
+        "value": "CUSTOM:DripstoneBlock"
+      },
+      {
+        "value": "CUSTOM:DripstoneUpTip"
+      },
+      {
+        "value": "CUSTOM:DripstoneUpFrustrum"
+      },
+      {
+        "value": "CUSTOM:DripstoneUpMiddle"
+      },
+      {
+        "value": "CUSTOM:DripstoneDownTip"
+      },
+      {
+        "value": "CUSTOM:DripstoneDownFrustrum"
+      },
+      {
+        "value": "CUSTOM:DripstoneDownMiddle"
+      },
+      {
+        "value": "CUSTOM:DripstoneDownTipMerge"
+      },
+      {
+        "value": "CUSTOM:DripstoneUpTipMerge"
+      },
+      {
+        "value": "Blocks.STONE#0"
+      },
+      {
+        "value": "Blocks.NORMAL_STONE_STAIRS"
+      },
+      {
+        "value": "Blocks.NORMAL_STONE_SLAB"
+      },
+      {
+        "value": "Blocks.STONE#1"
+      },
+      {
+        "value": "Blocks.STONE#2"
+      },
+      {
+        "value": "Blocks.STONE#3"
+      },
+      {
+        "value": "Blocks.STONE#4"
+      },
+      {
+        "value": "Blocks.STONE#5"
+      },
+      {
+        "value": "Blocks.STONE#6"
+      },
+      {
+        "value": "Blocks.SMOOTH_STONE"
+      },
+      {
+        "value": "Blocks.COBBLESTONE"
+      },
+      {
+        "value": "Blocks.MOSSY_COBBLESTONE"
+      },
+      {
+        "value": "Blocks.MOSSY_COBBLESTONE_STAIRS"
+      },
+      {
+        "value": "Blocks.MOSSY_COBBLESTONE_SLAB"
+      },
+      {
+        "value": "Blocks.BLACKSTONE"
+      },
+      {
+        "value": "Blocks.BLACKSTONE_STAIRS"
+      },
+      {
+        "value": "Blocks.BLACKSTONE_WALL"
+      },
+      {
+        "value": "Blocks.BLACKSTONE_SLAB"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_BRICKS"
+      },
+      {
+        "value": "Blocks.CRACKED_POLISHED_BLACKSTONE_BRICKS"
+      },
+      {
+        "value": "Blocks.CHISELED_POLISHED_BLACKSTONE"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_BRICK_SLAB"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_BRICK_STAIRS"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_STAIRS"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_SLAB"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_WALL"
+      },
+      {
+        "value": "Blocks.REDSTONE_ORE"
+      },
+      {
+        "value": "Blocks.LIT_REDSTONE_ORE"
+      },
+      {
+        "value": "Blocks.GILDED_BLACKSTONE"
+      },
+      {
+        "value": "Blocks.REDSTONE_BLOCK"
+      },
+      {
+        "value": "Blocks.SANDSTONE#0"
+      },
+      {
+        "value": "Blocks.SANDSTONE#1"
+      },
+      {
+        "value": "Blocks.SANDSTONE#2"
+      },
+      {
+        "value": "Blocks.SANDSTONE_STAIRS"
+      },
+      {
+        "value": "Blocks.SMOOTH_SANDSTONE"
+      },
+      {
+        "value": "Blocks.SMOOTH_SANDSTONE_STAIRS"
+      },
+      {
+        "value": "Blocks.SMOOTH_SANDSTONE_SLAB"
+      },
+      {
+        "value": "Blocks.CUT_SANDSTONE_SLAB"
+      },
+      {
+        "value": "Blocks.SANDSTONE_WALL"
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE#0"
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE#1"
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE#2"
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE_STAIRS"
+      },
+      {
+        "value": "Blocks.SMOOTH_RED_SANDSTONE"
+      },
+      {
+        "value": "Blocks.SMOOTH_RED_SANDSTONE_STAIRS"
+      },
+      {
+        "value": "Blocks.SMOOTH_RED_SANDSTONE_SLAB"
+      },
+      {
+        "value": "Blocks.CUT_RED_SANDSTONE_SLAB"
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE_WALL"
+      },
+      {
+        "value": "Blocks.STONE_STAIRS"
+      },
+      {
+        "value": "Blocks.STONE_BRICK_STAIRS"
+      },
+      {
+        "value": "Blocks.STONE_BUTTON"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_BUTTON"
+      },
+      {
+        "value": "Blocks.STONE_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.REDSTONE_TORCH"
+      },
+      {
+        "value": "Blocks.REDSTONE_WALL_TORCH"
+      },
+      {
+        "value": "Blocks.UNLIT_REDSTONE_TORCH"
+      },
+      {
+        "value": "Blocks.REDSTONE_WIRE"
+      },
+      {
+        "value": "Blocks.UNPOWERED_REPEATER"
+      },
+      {
+        "value": "Blocks.POWERED_REPEATER"
+      },
+      {
+        "value": "Blocks.UNPOWERED_COMPARATOR"
+      },
+      {
+        "value": "Blocks.POWERED_COMPARATOR"
+      },
+      {
+        "value": "Blocks.REDSTONE_LAMP"
+      },
+      {
+        "value": "Blocks.LIT_REDSTONE_LAMP"
+      },
+      {
+        "value": "Blocks.GLOWSTONE"
+      },
+      {
+        "value": "Blocks.STONEBRICK#0"
+      },
+      {
+        "value": "Blocks.STONE_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.STONEBRICK#1"
+      },
+      {
+        "value": "Blocks.MOSSY_STONE_BRICK_STAIRS"
+      },
+      {
+        "value": "Blocks.MOSSY_STONE_BRICK_SLAB"
+      },
+      {
+        "value": "Blocks.MOSSY_STONE_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.STONEBRICK#2"
+      },
+      {
+        "value": "Blocks.STONEBRICK#3"
+      },
+      {
+        "value": "Blocks.END_STONE"
+      },
+      {
+        "value": "Blocks.END_BRICKS"
+      },
+      {
+        "value": "Blocks.END_STONE_BRICK_STAIRS"
+      },
+      {
+        "value": "Blocks.END_STONE_BRICK_SLAB"
+      },
+      {
+        "value": "Blocks.END_STONE_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.MONSTER_EGG#0"
+      },
+      {
+        "value": "Blocks.MONSTER_EGG#1"
+      },
+      {
+        "value": "Blocks.MONSTER_EGG#2"
+      },
+      {
+        "value": "Blocks.MONSTER_EGG#3"
+      },
+      {
+        "value": "Blocks.MONSTER_EGG#4"
+      },
+      {
+        "value": "Blocks.MONSTER_EGG#5"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#0"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#1"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#2"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#3"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#4"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#5"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#6"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#7"
+      },
+      {
+        "value": "Blocks.STONE_SLAB2"
+      },
+      {
+        "value": "Blocks.COBBLESTONE_WALL#0"
+      },
+      {
+        "value": "Blocks.COBBLESTONE_WALL#1"
+      },
+      {
+        "value": "Blocks.GRINDSTONE"
+      },
+      {
+        "value": "Blocks.STONECUTTER"
+      },
+      {
+        "value": "Blocks.LODESTONE"
+      },
+      {
+        "value": "CUSTOM:FakeDiamondOre"
+      },
+      {
+        "value": "CUSTOM:RandomiteOre"
+      },
+      {
+        "value": "CUSTOM:TanzaniteOre"
+      },
+      {
+        "value": "CUSTOM:PurpleQuartzOre"
+      },
+      {
+        "value": "CUSTOM:SporeBlossom"
+      },
+      {
+        "value": "CUSTOM:DarkiteOre"
+      },
+      {
+        "value": "CUSTOM:PlatinumOre"
+      },
+      {
+        "value": "Blocks.COAL_ORE"
+      },
+      {
+        "value": "Blocks.IRON_ORE"
+      },
+      {
+        "value": "Blocks.REDSTONE_ORE"
+      },
+      {
+        "value": "Blocks.LIT_REDSTONE_ORE"
+      },
+      {
+        "value": "Blocks.GOLD_ORE"
+      },
+      {
+        "value": "Blocks.LAPIS_ORE"
+      },
+      {
+        "value": "Blocks.DIAMOND_ORE"
+      },
+      {
+        "value": "Blocks.EMERALD_ORE"
+      },
+      {
+        "value": "Blocks.QUARTZ_ORE"
+      },
+      {
+        "value": "Blocks.NETHER_GOLD_ORE"
+      },
+      {
+        "value": "CUSTOM:BlueSand"
+      },
+      {
+        "value": "CUSTOM:Sandstone"
+      },
+      {
+        "value": "CUSTOM:Quicksand"
+      },
+      {
+        "value": "Blocks.SAND#0"
+      },
+      {
+        "value": "Blocks.SAND#1"
+      },
+      {
+        "value": "Blocks.SANDSTONE#0"
+      },
+      {
+        "value": "Blocks.SANDSTONE#1"
+      },
+      {
+        "value": "Blocks.SANDSTONE#2"
+      },
+      {
+        "value": "Blocks.SANDSTONE_STAIRS"
+      },
+      {
+        "value": "Blocks.SMOOTH_SANDSTONE"
+      },
+      {
+        "value": "Blocks.SMOOTH_SANDSTONE_STAIRS"
+      },
+      {
+        "value": "Blocks.SMOOTH_SANDSTONE_SLAB"
+      },
+      {
+        "value": "Blocks.CUT_SANDSTONE_SLAB"
+      },
+      {
+        "value": "Blocks.SANDSTONE_WALL"
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE#0"
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE#1"
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE#2"
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE_STAIRS"
+      },
+      {
+        "value": "Blocks.SMOOTH_RED_SANDSTONE"
+      },
+      {
+        "value": "Blocks.SMOOTH_RED_SANDSTONE_STAIRS"
+      },
+      {
+        "value": "Blocks.SMOOTH_RED_SANDSTONE_SLAB"
+      },
+      {
+        "value": "Blocks.CUT_RED_SANDSTONE_SLAB"
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE_WALL"
+      },
+      {
+        "value": "Blocks.SOUL_SAND"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#1"
+      },
+      {
+        "value": "Blocks.STONE_SLAB2"
+      },
+      {
+        "value": "Blocks.NETHERRACK"
+      },
+      {
+        "value": "Blocks.END_STONE"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "sculk_replaceable",
+    "namespace": "mod"
+  }
+}

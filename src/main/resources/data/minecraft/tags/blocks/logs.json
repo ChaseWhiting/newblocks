@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "new_blocks:mangrove_wood",
+    "new_blocks:deep_dark_log",
+    "new_blocks:mangrove_log",
+    "new_blocks:fir_wood",
+    "new_blocks:fir_log",
+    "new_blocks:palm_log"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "new_blocks:custom/m92",
+  "textures": {
+    "0": "new_blocks:blocks/black_concrete",
+    "1": "new_blocks:blocks/gray_wool",
+    "2": "new_blocks:blocks/gray_stained_glass",
+    "particle": "new_blocks:items/pistol"
+  }
+}

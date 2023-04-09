@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "new_blocks:grimstone_bricks"
+  },
+  "result": "new_blocks:chiseled_grimstone"
+}

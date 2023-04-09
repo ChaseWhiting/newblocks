@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "lightsaber_green",
+        "1": "lightsaber"
+      },
+      "name": "default"
+    }
+  }
+}

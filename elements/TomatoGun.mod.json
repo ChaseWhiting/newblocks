@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "tomato_gun",
+    "customModelName": "Normal",
+    "name": "Tomato Gun",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Tomato"
+    },
+    "shootConstantly": true,
+    "usageCount": 650,
+    "actionSound": {
+      "value": "CUSTOM:peashooter.hurt"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "onRangedItemUsed": {
+      "name": "TomatoGunRangedItemUsed"
+    },
+    "bulletPower": 1.0,
+    "bulletDamage": 3.5,
+    "bulletKnockback": 0,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Tomato"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsEntity": {
+      "name": "TomatoGunProjectileHitsLivingEntity"
+    },
+    "onBulletFlyingTick": {
+      "name": "TomatoGunWhileProjectileFlyingTick"
+    }
+  }
+}

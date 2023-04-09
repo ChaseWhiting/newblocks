@@ -1,0 +1,8 @@
+{
+  "parent": "new_blocks:custom/amethyst_small_budding",
+  "textures": {
+    "all": "new_blocks:blocks/small_amethyst_bud",
+    "particle": "new_blocks:blocks/small_amethyst_bud",
+    "1": "new_blocks:blocks/small_amethyst_bud"
+  }
+}

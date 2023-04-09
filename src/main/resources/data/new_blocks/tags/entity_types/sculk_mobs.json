@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "new_blocks:very_angry_warden",
+    "new_blocks:warden",
+    "new_blocks:sculker",
+    "new_blocks:sculk_stabbers",
+    "new_blocks:endersculk"
+  ]
+}

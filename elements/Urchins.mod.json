@@ -1,0 +1,29 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "CUSTOM:SeaUrchinBlack"
+      },
+      {
+        "value": "CUSTOM:SeaUrchinGreen"
+      },
+      {
+        "value": "CUSTOM:SeaUrchinPurple"
+      },
+      {
+        "value": "CUSTOM:SeaUrchinRed"
+      },
+      {
+        "value": "CUSTOM:SeaUrchinYellow"
+      }
+    ],
+    "name": "urchins",
+    "namespace": "mod"
+  }
+}

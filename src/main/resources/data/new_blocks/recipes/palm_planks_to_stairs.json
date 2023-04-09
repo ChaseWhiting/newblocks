@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "678"
+  ],
+  "key": {
+    "2": {
+      "item": "new_blocks:palm_planks"
+    },
+    "4": {
+      "item": "new_blocks:palm_planks"
+    },
+    "5": {
+      "item": "new_blocks:palm_planks"
+    },
+    "6": {
+      "item": "new_blocks:palm_planks"
+    },
+    "7": {
+      "item": "new_blocks:palm_planks"
+    },
+    "8": {
+      "item": "new_blocks:palm_planks"
+    }
+  },
+  "result": {
+    "item": "new_blocks:palm_stairs",
+    "count": 4
+  }
+}

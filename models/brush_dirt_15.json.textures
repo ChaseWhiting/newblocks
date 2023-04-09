@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "dirt",
+        "1": "block_signal"
+      },
+      "name": "default"
+    }
+  }
+}

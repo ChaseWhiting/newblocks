@@ -1,0 +1,43 @@
+{
+  "_fv": 33,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 1,
+    "texture": "sniper_gun",
+    "customModelName": "m200_sniper:default",
+    "name": "M200 Sniper rifle",
+    "specialInfo": [
+      "Hold in left hand to",
+      "see through scope"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Newblocks"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:SniperBullet"
+    },
+    "shootConstantly": false,
+    "usageCount": 465,
+    "actionSound": {
+      "value": "CUSTOM:sniper_shoot"
+    },
+    "hasGlow": false,
+    "animation": "none",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "onRangedItemUsed": {
+      "name": "SniperRifileRangedItemUsed"
+    },
+    "bulletPower": 4.0,
+    "bulletDamage": 1.9,
+    "bulletKnockback": 0,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:SniperBullet"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BurgerTopBun"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Cheese"
+      },
+      {
+        "value": "Items.COOKED_BEEF"
+      },
+      {
+        "value": "CUSTOM:TomatoSlice"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BurgerBottomBun"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BurgerTomatoCheese"
+    },
+    "name": "burger_tomato_cheese_recipe",
+    "namespace": "mod"
+  }
+}

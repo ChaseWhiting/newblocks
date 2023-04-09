@@ -1,0 +1,7 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "new_blocks:blocks/coconut_leaves",
+    "particle": "new_blocks:blocks/coconut_leaves"
+  }
+}

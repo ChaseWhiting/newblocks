@@ -1,0 +1,41 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:PalmFence"
+      },
+      {
+        "value": "CUSTOM:PalmFenceGate"
+      },
+      {
+        "value": "CUSTOM:PalmTrapdoor"
+      },
+      {
+        "value": "CUSTOM:PalmDoor"
+      },
+      {
+        "value": "CUSTOM:PalmLog"
+      },
+      {
+        "value": "CUSTOM:PalmPlanks"
+      },
+      {
+        "value": "CUSTOM:PalmStairs"
+      },
+      {
+        "value": "CUSTOM:PalmSlab"
+      },
+      {
+        "value": "CUSTOM:PalmButton"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "mineable/axe",
+    "namespace": "minecraft"
+  }
+}

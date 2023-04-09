@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "new_blocks:palm_stairs",
+    "new_blocks:palm_trapdoor",
+    "new_blocks:palm_fence_gate",
+    "new_blocks:palm_button",
+    "new_blocks:palm_log",
+    "new_blocks:palm_planks",
+    "new_blocks:palm_fence",
+    "new_blocks:palm_slab",
+    "new_blocks:palm_door"
+  ]
+}

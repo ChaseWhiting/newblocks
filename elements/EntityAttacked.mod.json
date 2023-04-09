@@ -1,0 +1,7 @@
+{
+  "_fv": 33,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><block deletable=\"false\" type=\"event_trigger\" x=\"97\" y=\"76\"><field name=\"trigger\">entity_attacked</field><next><block type=\"controls_if\"><value name=\"IF0\"><block type=\"logic_entity_compare\"><field name=\"entity\">CUSTOM:StoneGolem</field><value name=\"compareTo\"><block type=\"source_entity_from_deps\"/></value></block></value><statement name=\"DO0\"><block type=\"entity_swing_mainhand\"><value name=\"entity\"><block type=\"source_entity_from_deps\"/></value><next><block type=\"entity_swing_offhand\"><value name=\"entity\"><block type=\"source_entity_from_deps\"/></value></block></next></block></statement></block></next></block><block type=\"entity_from_deps\" x=\"258\" y=\"437\"/><block type=\"entity_from_deps\" x=\"245\" y=\"453\"/></xml>"
+  }
+}

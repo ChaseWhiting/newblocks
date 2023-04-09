@@ -1,0 +1,41 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Rifle"
+      },
+      {
+        "value": "CUSTOM:Minigun"
+      },
+      {
+        "value": "CUSTOM:SniperRifile"
+      },
+      {
+        "value": "CUSTOM:SniperBullet"
+      },
+      {
+        "value": "CUSTOM:Pistol"
+      },
+      {
+        "value": "CUSTOM:Bullet"
+      },
+      {
+        "value": "CUSTOM:Thompson"
+      },
+      {
+        "value": "CUSTOM:Grenade"
+      },
+      {
+        "value": "CUSTOM:GrenadeLauncher"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "guns",
+    "namespace": "mod"
+  }
+}

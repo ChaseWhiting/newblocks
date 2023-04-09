@@ -1,0 +1,21 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [
+      {
+        "value": "CUSTOM:AmethystBlock"
+      }
+    ],
+    "blocks": [
+      {
+        "value": "CUSTOM:AmethystBlock"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "amethyst_blocks",
+    "namespace": "mod"
+  }
+}

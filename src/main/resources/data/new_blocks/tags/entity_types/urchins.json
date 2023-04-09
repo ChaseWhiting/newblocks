@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "new_blocks:sea_urchin_purple",
+    "new_blocks:sea_urchin_red",
+    "new_blocks:sea_urchin_yellow",
+    "new_blocks:sea_urchin_black",
+    "new_blocks:sea_urchin_green"
+  ]
+}

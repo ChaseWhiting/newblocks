@@ -1,0 +1,7 @@
+{
+  "parent": "new_blocks:custom/flamethrower",
+  "textures": {
+    "0": "new_blocks:blocks/flamethrower1",
+    "particle": "new_blocks:items/diamond_sword"
+  }
+}

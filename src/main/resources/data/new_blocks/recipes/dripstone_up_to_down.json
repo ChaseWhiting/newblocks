@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "new_blocks:dripstone_up_tip"
+    }
+  },
+  "result": {
+    "item": "new_blocks:dripstone_down_tip",
+    "count": 1
+  }
+}

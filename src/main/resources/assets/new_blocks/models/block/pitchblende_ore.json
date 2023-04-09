@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "new_blocks:blocks/pitchblende_ore_2",
+    "particle": "new_blocks:blocks/pitchblende_ore_2"
+  }
+}

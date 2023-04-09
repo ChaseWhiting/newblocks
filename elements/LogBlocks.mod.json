@@ -1,0 +1,32 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:DeepDarkLog"
+      },
+      {
+        "value": "CUSTOM:FirLog"
+      },
+      {
+        "value": "CUSTOM:FirWood"
+      },
+      {
+        "value": "CUSTOM:PalmLog"
+      },
+      {
+        "value": "CUSTOM:MangroveLog"
+      },
+      {
+        "value": "CUSTOM:MangroveWood"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "logs",
+    "namespace": "minecraft"
+  }
+}

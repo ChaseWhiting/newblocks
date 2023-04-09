@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "new_blocks:angry_newspaper_zombie",
+    "new_blocks:newspaper_zombie",
+    "new_blocks:conehead_zombie",
+    "new_blocks:pogo_zombie",
+    "new_blocks:screendoor_zombie",
+    "new_blocks:normal_zombie",
+    "new_blocks:duckytube_zombie",
+    "new_blocks:bucket_head_zombie"
+  ]
+}

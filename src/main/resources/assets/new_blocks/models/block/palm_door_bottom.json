@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "new_blocks:blocks/coconut_door_bottom",
+    "top": "new_blocks:blocks/coconut_door_top"
+  }
+}

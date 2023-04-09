@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "new_blocks:strawberry"
+    }
+  ],
+  "result": {
+    "item": "new_blocks:strawberry_seeds",
+    "count": 3
+  }
+}

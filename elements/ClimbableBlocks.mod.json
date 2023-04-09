@@ -1,0 +1,32 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:SculkVine"
+      },
+      {
+        "value": "CUSTOM:CavePlant"
+      },
+      {
+        "value": "CUSTOM:CavePlantMiddleUnlit"
+      },
+      {
+        "value": "CUSTOM:CavePlantMiddleLit"
+      },
+      {
+        "value": "CUSTOM:CavePlantLit"
+      },
+      {
+        "value": "CUSTOM:BigSculkVine"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "climbable",
+    "namespace": "minecraft"
+  }
+}

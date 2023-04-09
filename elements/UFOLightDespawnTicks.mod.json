@@ -1,0 +1,12 @@
+{
+  "_fv": 33,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Number",
+    "displayName": "UFO Light Despawn ticks",
+    "description": "The number of ticks until the UFO Light despawns",
+    "category": "MOBS",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 15
+  }
+}

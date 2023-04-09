@@ -1,0 +1,6 @@
+{
+  "parent": "new_blocks:custom/dark_oak_key",
+  "textures": {
+    "layer0": "new_blocks:items/pillager_key_2"
+  }
+}

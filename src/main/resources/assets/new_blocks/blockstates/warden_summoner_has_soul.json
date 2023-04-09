@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "new_blocks:block/warden_summoner_has_soul"
+    },
+    "facing=east": {
+      "model": "new_blocks:block/warden_summoner_has_soul",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "new_blocks:block/warden_summoner_has_soul",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "new_blocks:block/warden_summoner_has_soul",
+      "y": 270
+    }
+  }
+}

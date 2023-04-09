@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "new_blocks:blocks/rooted_dirt",
+    "up": "new_blocks:blocks/rooted_dirt",
+    "north": "new_blocks:blocks/rooted_dirt",
+    "east": "new_blocks:blocks/rooted_dirt",
+    "south": "new_blocks:blocks/rooted_dirt",
+    "west": "new_blocks:blocks/rooted_dirt",
+    "particle": "new_blocks:blocks/rooted_dirt"
+  }
+}

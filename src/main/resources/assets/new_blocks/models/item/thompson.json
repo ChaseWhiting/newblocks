@@ -1,0 +1,10 @@
+{
+  "parent": "new_blocks:custom/thompson",
+  "textures": {
+    "3": "new_blocks:blocks/darks",
+    "4": "new_blocks:blocks/steel",
+    "5": "new_blocks:blocks/wood",
+    "missing": "new_blocks:blocks/",
+    "particle": "new_blocks:items/minigun-removebg-preview"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "experience": 1,
+  "cookingtime": 450,
+  "ingredient": {
+    "item": "new_blocks:raw_red_snapper"
+  },
+  "result": {
+    "item": "new_blocks:cooked_red_snapper"
+  }
+}

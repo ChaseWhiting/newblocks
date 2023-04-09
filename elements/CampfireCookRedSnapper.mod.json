@@ -1,0 +1,20 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Campfire cooking",
+    "xpReward": 1.0,
+    "cookingTime": 450,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "campfireCookingInputStack": {
+      "value": "CUSTOM:RawRedSnapper"
+    },
+    "campfireCookingReturnStack": {
+      "value": "CUSTOM:CookedRedSnapper"
+    },
+    "name": "campfire_cook_red_snapper",
+    "namespace": "mod"
+  }
+}

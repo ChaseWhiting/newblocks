@@ -1,0 +1,12 @@
+{
+  "_fv": 33,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "Y",
+    "keyBindingName": "Gen Random",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "GenRandomOnKeyPressed"
+    }
+  }
+}

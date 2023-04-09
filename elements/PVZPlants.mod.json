@@ -1,0 +1,41 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "CUSTOM:Chomper"
+      },
+      {
+        "value": "CUSTOM:ChomperFull"
+      },
+      {
+        "value": "CUSTOM:Peashooter"
+      },
+      {
+        "value": "CUSTOM:SnowPeashooter"
+      },
+      {
+        "value": "CUSTOM:GatlingPeashooter"
+      },
+      {
+        "value": "CUSTOM:BonkChoy"
+      },
+      {
+        "value": "CUSTOM:Threepeater"
+      },
+      {
+        "value": "CUSTOM:MelonPult"
+      },
+      {
+        "value": "CUSTOM:Wallnut"
+      }
+    ],
+    "name": "pvz_plants",
+    "namespace": "mod"
+  }
+}

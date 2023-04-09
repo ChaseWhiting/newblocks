@@ -1,0 +1,25 @@
+{
+  "_fv": 33,
+  "_type": "structure",
+  "definition": {
+    "structure": "allay_cage",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 1550,
+    "minCountPerChunk": 2,
+    "maxCountPerChunk": 3,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [],
+    "restrictionBiomes": [],
+    "ignoreBlocks": "STRUCTURE_BLOCK",
+    "onStructureGenerated": {
+      "name": "AllayCageOnStructureInstanceGenerated"
+    }
+  }
+}

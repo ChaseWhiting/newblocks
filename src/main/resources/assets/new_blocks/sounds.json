@@ -1,0 +1,2647 @@
+{
+  "herobrinehurt": {
+    "category": "hostile",
+    "subtitle": "subtitles.herobrinehurt",
+    "sounds": [
+      {
+        "name": "new_blocks:herobrinehurt",
+        "stream": false
+      }
+    ]
+  },
+  "reaper_ambient": {
+    "category": "ambient",
+    "subtitle": "subtitles.reaper_ambient",
+    "sounds": [
+      {
+        "name": "new_blocks:reaperambient",
+        "stream": false
+      }
+    ]
+  },
+  "reaper_hurt": {
+    "category": "hostile",
+    "subtitle": "subtitles.reaper_hurt",
+    "sounds": [
+      {
+        "name": "new_blocks:reaperhurt",
+        "stream": false
+      }
+    ]
+  },
+  "tommyinnithurt": {
+    "category": "hostile",
+    "subtitle": "subtitles.tommyinnithurt",
+    "sounds": [
+      {
+        "name": "new_blocks:tommyinnithurt",
+        "stream": false
+      }
+    ]
+  },
+  "tommyinnitbazinga": {
+    "category": "master",
+    "subtitle": "subtitles.tommyinnitbazinga",
+    "sounds": [
+      {
+        "name": "new_blocks:tommyinnitbazinga",
+        "stream": false
+      }
+    ]
+  },
+  "knifestab": {
+    "category": "ambient",
+    "subtitle": "subtitles.knifestab",
+    "sounds": [
+      {
+        "name": "new_blocks:stab",
+        "stream": false
+      }
+    ]
+  },
+  "electric_spider_hurt": {
+    "category": "hostile",
+    "subtitle": "subtitles.electric_spider_hurt",
+    "sounds": [
+      {
+        "name": "new_blocks:electricspiderhurt",
+        "stream": false
+      }
+    ]
+  },
+  "electric_spider_death": {
+    "category": "hostile",
+    "subtitle": "subtitles.electric_spider_death",
+    "sounds": [
+      {
+        "name": "new_blocks:electricspiderdeath",
+        "stream": false
+      }
+    ]
+  },
+  "electric_spider_step": {
+    "category": "hostile",
+    "subtitle": "subtitles.electric_spider_step",
+    "sounds": [
+      {
+        "name": "new_blocks:electricspiderstep",
+        "stream": false
+      }
+    ]
+  },
+  "electric_spider_idle": {
+    "category": "hostile",
+    "subtitle": "subtitles.electric_spider_idle",
+    "sounds": [
+      {
+        "name": "new_blocks:electricspideridle1",
+        "stream": false
+      }
+    ]
+  },
+  "electric_spider_health_low": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "new_blocks:electric_spider_low",
+        "stream": false
+      }
+    ]
+  },
+  "electric_spider_disc": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "new_blocks:5023726745157632",
+        "stream": true
+      }
+    ]
+  },
+  "shulk_disc": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "new_blocks:shulk_-_custom_minecraft_music_disc",
+        "stream": true
+      }
+    ]
+  },
+  "poison_plant_spit": {
+    "category": "hostile",
+    "subtitle": "subtitles.poison_plant_spit",
+    "sounds": [
+      {
+        "name": "new_blocks:spit",
+        "stream": false
+      }
+    ]
+  },
+  "poison_plant_roar": {
+    "category": "hostile",
+    "subtitle": "subtitles.poison_plant_roar",
+    "sounds": [
+      {
+        "name": "new_blocks:ambient",
+        "stream": false
+      }
+    ]
+  },
+  "poison_plant_hurt": {
+    "category": "neutral",
+    "subtitle": "subtitles.poison_plant_hurt",
+    "sounds": [
+      {
+        "name": "new_blocks:hurt",
+        "stream": false
+      }
+    ]
+  },
+  "poison_plant_death": {
+    "category": "neutral",
+    "subtitle": "subtitles.poison_plant_death",
+    "sounds": [
+      {
+        "name": "new_blocks:death",
+        "stream": false
+      }
+    ]
+  },
+  "iron_man_bullet_shoot": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:shoot",
+        "stream": false
+      }
+    ]
+  },
+  "squirrel_hurt": {
+    "category": "neutral",
+    "subtitle": "subtitles.squirrel_hurt",
+    "sounds": [
+      {
+        "name": "new_blocks:squirrel_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "squirrel_idle": {
+    "category": "neutral",
+    "subtitle": "subtitles.squirrel_idle",
+    "sounds": [
+      {
+        "name": "new_blocks:squirrel_idle",
+        "stream": false
+      }
+    ]
+  },
+  "imposter": {
+    "category": "neutral",
+    "subtitle": "subtitles.imposter",
+    "sounds": [
+      {
+        "name": "new_blocks:imposter",
+        "stream": false
+      }
+    ]
+  },
+  "cidada_idle": {
+    "category": "neutral",
+    "subtitle": "subtitles.cidada_idle",
+    "sounds": [
+      {
+        "name": "new_blocks:cicada_idle",
+        "stream": false
+      }
+    ]
+  },
+  "cicada_step": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:untitled",
+        "stream": false
+      }
+    ]
+  },
+  "shark_hurt": {
+    "category": "neutral",
+    "subtitle": "subtitles.shark_hurt",
+    "sounds": [
+      {
+        "name": "new_blocks:sharkhurt",
+        "stream": false
+      }
+    ]
+  },
+  "balloon_pop": {
+    "category": "neutral",
+    "subtitle": "subtitles.balloon_pop",
+    "sounds": [
+      {
+        "name": "new_blocks:balloon_pop",
+        "stream": false
+      }
+    ]
+  },
+  "hammood": {
+    "category": "neutral",
+    "subtitle": "subtitles.hammood",
+    "sounds": [
+      {
+        "name": "new_blocks:hammoodambient",
+        "stream": false
+      }
+    ]
+  },
+  "hamoodstep": {
+    "category": "neutral",
+    "subtitle": "subtitles.hamoodstep",
+    "sounds": [
+      {
+        "name": "new_blocks:hamoodstep",
+        "stream": false
+      }
+    ]
+  },
+  "hamood": {
+    "category": "neutral",
+    "subtitle": "subtitles.hamood",
+    "sounds": [
+      {
+        "name": "new_blocks:hammoodhurt",
+        "stream": false
+      }
+    ]
+  },
+  "ham": {
+    "category": "neutral",
+    "subtitle": "subtitles.ham",
+    "sounds": [
+      {
+        "name": "new_blocks:hamooddeath",
+        "stream": false
+      }
+    ]
+  },
+  "cave": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "new_blocks:ambience",
+        "stream": false
+      }
+    ]
+  },
+  "axolotl_bubbles_1": {
+    "category": "neutral",
+    "subtitle": "subtitles.axolotl_bubbles_1",
+    "sounds": [
+      {
+        "name": "new_blocks:axolotl_idle",
+        "stream": false
+      }
+    ]
+  },
+  "axolotl_bubbles_2": {
+    "category": "neutral",
+    "subtitle": "subtitles.axolotl_bubbles_2",
+    "sounds": [
+      {
+        "name": "new_blocks:axolotl_idle2",
+        "stream": false
+      }
+    ]
+  },
+  "axolotl_idle_air": {
+    "category": "neutral",
+    "subtitle": "subtitles.axolotl_idle_air",
+    "sounds": [
+      {
+        "name": "new_blocks:axolotl_idle_air_1",
+        "stream": false
+      }
+    ]
+  },
+  "axolotl_hurt": {
+    "category": "neutral",
+    "subtitle": "subtitles.axolotl_hurt",
+    "sounds": [
+      {
+        "name": "new_blocks:axolotl_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "deep_dark": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "new_blocks:deep_dark",
+        "stream": true
+      }
+    ]
+  },
+  "warden_distant": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "new_blocks:distant_warden_ambient1",
+        "stream": false
+      }
+    ]
+  },
+  "deep_dark_ambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "new_blocks:deep_dark_ambience",
+        "stream": false
+      }
+    ]
+  },
+  "squirrel_death": {
+    "category": "neutral",
+    "subtitle": "subtitles.squirrel_death",
+    "sounds": [
+      {
+        "name": "new_blocks:squirrel_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "wardenstep": {
+    "category": "ambient",
+    "subtitle": "subtitles.wardenstep",
+    "sounds": [
+      {
+        "name": "new_blocks:step1-audiotrimmer.com",
+        "stream": false
+      }
+    ]
+  },
+  "sculker_idle": {
+    "category": "hostile",
+    "subtitle": "subtitles.sculker_idle",
+    "sounds": [
+      {
+        "name": "new_blocks:sculker_idle",
+        "stream": false
+      }
+    ]
+  },
+  "wardenidle": {
+    "category": "ambient",
+    "subtitle": "subtitles.wardenidle",
+    "sounds": [
+      {
+        "name": "new_blocks:idle2_1-audiotrimmer.com",
+        "stream": false
+      }
+    ]
+  },
+  "sculker_hurt": {
+    "category": "hostile",
+    "subtitle": "subtitles.sculker_hurt",
+    "sounds": [
+      {
+        "name": "new_blocks:sculker_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "skulk_clicking_1": {
+    "category": "neutral",
+    "subtitle": "subtitles.skulk_clicking_1",
+    "sounds": [
+      {
+        "name": "new_blocks:sculk_clicking1",
+        "stream": false
+      }
+    ]
+  },
+  "sculk_step_1": {
+    "category": "hostile",
+    "subtitle": "subtitles.sculk_step_1",
+    "sounds": [
+      {
+        "name": "new_blocks:sculk_step1",
+        "stream": false
+      }
+    ]
+  },
+  "sculk_step_6": {
+    "category": "block",
+    "subtitle": "subtitles.sculk_step_6",
+    "sounds": [
+      {
+        "name": "new_blocks:sculk_step6",
+        "stream": false
+      }
+    ]
+  },
+  "sculk_place": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "new_blocks:sculk_sensor_place4",
+        "stream": false
+      }
+    ]
+  },
+  "sculk_break": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "new_blocks:sculk_sensor_break2",
+        "stream": false
+      }
+    ]
+  },
+  "sculk_hit": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "new_blocks:sculk_sensor_break3",
+        "stream": false
+      }
+    ]
+  },
+  "sculk_step_block": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "new_blocks:sculk_step",
+        "stream": false
+      }
+    ]
+  },
+  "warden_hurt_2": {
+    "category": "hostile",
+    "subtitle": "subtitles.warden_hurt_2",
+    "sounds": [
+      {
+        "name": "new_blocks:warden_hurt_1",
+        "stream": false
+      }
+    ]
+  },
+  "ice_cube_summon": {
+    "category": "hostile",
+    "subtitle": "subtitles.ice_cube_summon",
+    "sounds": [
+      {
+        "name": "new_blocks:dlc_icecube_power_summon_new_updated",
+        "stream": false
+      }
+    ]
+  },
+  "iceologer_death": {
+    "category": "hostile",
+    "subtitle": "subtitles.iceologer_death",
+    "sounds": [
+      {
+        "name": "new_blocks:dlc_mob_icepillager_death_01_v",
+        "stream": false
+      }
+    ]
+  },
+  "iceologer_grunt": {
+    "category": "hostile",
+    "subtitle": "subtitles.iceologer_grunt",
+    "sounds": [
+      {
+        "name": "new_blocks:dlc_mob_icepillager_idle_02_v",
+        "stream": false
+      }
+    ]
+  },
+  "iceologer_hurt": {
+    "category": "hostile",
+    "subtitle": "subtitles.iceologer_hurt",
+    "sounds": [
+      {
+        "name": "new_blocks:dlc_mob_icepillager_hurt_01_v",
+        "stream": false
+      }
+    ]
+  },
+  "sculk_shrieker_shriek": {
+    "category": "block",
+    "subtitle": "subtitles.sculk_shrieker_shriek",
+    "sounds": [
+      {
+        "name": "new_blocks:sculk_shrieker_shriek",
+        "stream": false
+      }
+    ]
+  },
+  "allay_ambient": {
+    "category": "neutral",
+    "subtitle": "subtitles.allay_ambient",
+    "sounds": [
+      {
+        "name": "new_blocks:allay_ambient",
+        "stream": false
+      }
+    ]
+  },
+  "allay_death": {
+    "category": "neutral",
+    "subtitle": "subtitles.allay_death",
+    "sounds": [
+      {
+        "name": "new_blocks:allay_death",
+        "stream": false
+      }
+    ]
+  },
+  "allay_hurt": {
+    "category": "neutral",
+    "subtitle": "subtitles.allay_hurt",
+    "sounds": [
+      {
+        "name": "new_blocks:allay_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "glare_angry": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:glare_angry",
+        "stream": false
+      }
+    ]
+  },
+  "tall": {
+    "category": "music",
+    "subtitle": "subtitles.tall",
+    "sounds": [
+      {
+        "name": "new_blocks:tall",
+        "stream": true
+      }
+    ]
+  },
+  "wardenhurt": {
+    "category": "hostile",
+    "subtitle": "subtitles.wardenhurt",
+    "sounds": [
+      {
+        "name": "new_blocks:hurt2-audiotrimmer.com",
+        "stream": false
+      }
+    ]
+  },
+  "warden_angry": {
+    "category": "hostile",
+    "subtitle": "subtitles.warden_angry",
+    "sounds": [
+      {
+        "name": "new_blocks:warden_angry",
+        "stream": false
+      }
+    ]
+  },
+  "zombiehurt": {
+    "category": "hostile",
+    "subtitle": "subtitles.zombiehurt",
+    "sounds": [
+      {
+        "name": "new_blocks:hurt2",
+        "stream": false
+      }
+    ]
+  },
+  "zombiedeath": {
+    "category": "hostile",
+    "subtitle": "subtitles.zombiedeath",
+    "sounds": [
+      {
+        "name": "new_blocks:death",
+        "stream": false
+      }
+    ]
+  },
+  "footsteps": {
+    "category": "hostile",
+    "subtitle": "subtitles.footsteps",
+    "sounds": [
+      {
+        "name": "new_blocks:step3",
+        "stream": false
+      }
+    ]
+  },
+  "sculk_crystal": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:sculk_crystal",
+        "stream": false
+      }
+    ]
+  },
+  "sculk_crystal_summon": {
+    "category": "block",
+    "subtitle": "subtitles.sculk_crystal_summon",
+    "sounds": [
+      {
+        "name": "new_blocks:sculk_crystal_summon",
+        "stream": false
+      }
+    ]
+  },
+  "otherside": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "new_blocks:otherside",
+        "stream": true
+      }
+    ]
+  },
+  "music.ancestry": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "new_blocks:ancestry",
+        "stream": true
+      }
+    ]
+  },
+  "birds_screaming_loop": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "new_blocks:birds_screaming_loop",
+        "stream": false
+      }
+    ]
+  },
+  "music.deep_dark_additions": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "new_blocks:deep_dark_additon",
+        "stream": true
+      }
+    ]
+  },
+  "warden_hit": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "new_blocks:warden_hit",
+        "stream": false
+      }
+    ]
+  },
+  "sniper_shoot": {
+    "category": "master",
+    "subtitle": "subtitles.sniper_shoot",
+    "sounds": [
+      {
+        "name": "new_blocks:sniper_shoot",
+        "stream": false
+      }
+    ]
+  },
+  "sniper_reload": {
+    "category": "master",
+    "subtitle": "subtitles.sniper_reload",
+    "sounds": [
+      {
+        "name": "new_blocks:sniper_reload",
+        "stream": false
+      }
+    ]
+  },
+  "horn_blow1": {
+    "category": "hostile",
+    "subtitle": "subtitles.horn_blow1",
+    "sounds": [
+      {
+        "name": "new_blocks:event_raidhorn1",
+        "stream": false
+      }
+    ]
+  },
+  "horn_2": {
+    "category": "hostile",
+    "subtitle": "subtitles.horn_2",
+    "sounds": [
+      {
+        "name": "new_blocks:event_raidhorn2",
+        "stream": false
+      }
+    ]
+  },
+  "minigun_shoot": {
+    "category": "master",
+    "subtitle": "subtitles.minigun_shoot",
+    "sounds": [
+      {
+        "name": "new_blocks:minigun_shoot",
+        "stream": false
+      }
+    ]
+  },
+  "pistol_shoot": {
+    "category": "master",
+    "subtitle": "subtitles.pistol_shoot",
+    "sounds": [
+      {
+        "name": "new_blocks:pistol_shoot",
+        "stream": false
+      }
+    ]
+  },
+  "grenade_throw": {
+    "category": "master",
+    "subtitle": "subtitles.grenade_throw",
+    "sounds": [
+      {
+        "name": "new_blocks:grenade_throw",
+        "stream": false
+      }
+    ]
+  },
+  "drone_fly1": {
+    "category": "master",
+    "subtitle": "subtitles.drone_fly1",
+    "sounds": [
+      {
+        "name": "new_blocks:drone_ambient1",
+        "stream": false
+      }
+    ]
+  },
+  "drone_fly2": {
+    "category": "master",
+    "subtitle": "subtitles.drone_fly2",
+    "sounds": [
+      {
+        "name": "new_blocks:drone_ambient2",
+        "stream": false
+      }
+    ]
+  },
+  "drone_fly3": {
+    "category": "master",
+    "subtitle": "subtitles.drone_fly3",
+    "sounds": [
+      {
+        "name": "new_blocks:drone_ambient3",
+        "stream": false
+      }
+    ]
+  },
+  "drone_hurt": {
+    "category": "master",
+    "subtitle": "subtitles.drone_hurt",
+    "sounds": [
+      {
+        "name": "new_blocks:drone_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "drone_death": {
+    "category": "master",
+    "subtitle": "subtitles.drone_death",
+    "sounds": [
+      {
+        "name": "new_blocks:drone_death",
+        "stream": false
+      }
+    ]
+  },
+  "wrench_turn": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "new_blocks:wrench_turn",
+        "stream": false
+      }
+    ]
+  },
+  "recall_potion_teleport": {
+    "category": "player",
+    "subtitle": "subtitles.recall_potion_teleport",
+    "sounds": [
+      {
+        "name": "new_blocks:recall_potion_teleport",
+        "stream": false
+      }
+    ]
+  },
+  "meowmere_meow": {
+    "category": "player",
+    "subtitle": "subtitles.meowmere_meow",
+    "sounds": [
+      {
+        "name": "new_blocks:cat_meow",
+        "stream": false
+      }
+    ]
+  },
+  "weak_magic_shoot": {
+    "category": "player",
+    "subtitle": "subtitles.weak_magic_shoot",
+    "sounds": [
+      {
+        "name": "new_blocks:weak_magic",
+        "stream": false
+      }
+    ]
+  },
+  "aaaa": {
+    "category": "hostile",
+    "subtitle": "subtitles.aaaa",
+    "sounds": [
+      {
+        "name": "new_blocks:alexjonesscream",
+        "stream": false
+      }
+    ]
+  },
+  "breakingtheconditoning": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:breakingtheconditioning",
+        "stream": false
+      }
+    ]
+  },
+  "pixie_": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "new_blocks:pixie",
+        "stream": false
+      }
+    ]
+  },
+  "amethyst.break": {
+    "category": "block",
+    "subtitle": "subtitles.amethyst.break",
+    "sounds": [
+      {
+        "name": "new_blocks:amethyst_break1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:amethyst_break2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:amethyst_break3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:amethyst_break4",
+        "stream": false
+      }
+    ]
+  },
+  "amethyst.step": {
+    "category": "block",
+    "subtitle": "subtitles.amethyst.step",
+    "sounds": [
+      {
+        "name": "new_blocks:amethyst_step1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:amethyst_step10",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:amethyst_step11",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:amethyst_step12",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:amethyst_step2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:amethyst_step3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:amethyst_step4",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:amethyst_step5",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:amethyst_step6",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:amethyst_step7",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:amethyst_step8",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:amethyst_step9",
+        "stream": false
+      }
+    ]
+  },
+  "amethyst.footsteps": {
+    "category": "block",
+    "subtitle": "subtitles.amethyst.footsteps",
+    "sounds": [
+      {
+        "name": "new_blocks:break1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:break10",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:break11",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:break12",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:break2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:break3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:break4",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:break5",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:break6",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:break7",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:break8",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:break9",
+        "stream": false
+      }
+    ]
+  },
+  "amethyst.fall": {
+    "category": "block",
+    "subtitle": "subtitles.amethyst.fall",
+    "sounds": [
+      {
+        "name": "new_blocks:fall1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:fall10",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:fall11",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:fall12",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:fall2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:fall3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:fall4",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:fall5",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:fall6",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:fall7",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:fall8",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:fall9",
+        "stream": false
+      }
+    ]
+  },
+  "peashooter.shoot": {
+    "category": "ambient",
+    "subtitle": "subtitles.peashooter.shoot",
+    "sounds": [
+      {
+        "name": "new_blocks:peashooter.shoot1",
+        "stream": false
+      }
+    ]
+  },
+  "chomper.eat": {
+    "category": "ambient",
+    "subtitle": "subtitles.chomper.eat",
+    "sounds": [
+      {
+        "name": "new_blocks:eat",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:eat2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:eat3",
+        "stream": false
+      }
+    ]
+  },
+  "zombie.hurt": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "new_blocks:hurt1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:hurt2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:hurt3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:hurt4",
+        "stream": false
+      }
+    ]
+  },
+  "zombie.eat": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "new_blocks:eat",
+        "stream": false
+      }
+    ]
+  },
+  "tin.hit": {
+    "category": "hostile",
+    "subtitle": "subtitles.tin.hit",
+    "sounds": [
+      {
+        "name": "new_blocks:hit",
+        "stream": false
+      }
+    ]
+  },
+  "melon_pult.shoot": {
+    "category": "ambient",
+    "subtitle": "subtitles.melon_pult.shoot",
+    "sounds": [
+      {
+        "name": "new_blocks:peashooter.shoot1",
+        "stream": false
+      }
+    ]
+  },
+  "say1": {
+    "category": "hostile",
+    "subtitle": "subtitles.say1",
+    "sounds": [
+      {
+        "name": "new_blocks:say1",
+        "stream": false
+      }
+    ]
+  },
+  "zombie.groan": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "new_blocks:say1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:say2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:say3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:say4",
+        "stream": false
+      }
+    ]
+  },
+  "indominus.rex.idle": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:indo1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:indo2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:indo3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:indo4",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:indo5",
+        "stream": false
+      }
+    ]
+  },
+  "indominus.rex.roar": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:indoroar",
+        "stream": false
+      }
+    ]
+  },
+  "indo.hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:indo.hurt",
+        "stream": false
+      }
+    ]
+  },
+  "indo.death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:indodeath",
+        "stream": false
+      }
+    ]
+  },
+  "indo.attack": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:indoattack",
+        "stream": false
+      }
+    ]
+  },
+  "indoraptor.idle": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:indoraptor.idle1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:indoraptor.idle2",
+        "stream": false
+      }
+    ]
+  },
+  "indoraptor.attack": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:indoraptor.attack1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:indoraptor.attack2",
+        "stream": false
+      }
+    ]
+  },
+  "indoraptor.hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:indoraptor.hurt1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:indoraptor.hurt2",
+        "stream": false
+      }
+    ]
+  },
+  "indoraptor.roar": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:indoraptor.roar1",
+        "stream": false
+      }
+    ]
+  },
+  "indoraptor.death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:indoraptor.death1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:indoraptor.death2",
+        "stream": false
+      }
+    ]
+  },
+  "pteranodon.attack": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:pteranodon.attack",
+        "stream": false
+      }
+    ]
+  },
+  "pteranodon.hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:pteranodon.hurt",
+        "stream": false
+      }
+    ]
+  },
+  "pteranodon.idlke": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:pteranodon.idle",
+        "stream": false
+      }
+    ]
+  },
+  "pteranodon.death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:pteranodon.death",
+        "stream": false
+      }
+    ]
+  },
+  "spinosaurus.idle": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:spinosaurus.idle1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:spinosaurus.idle2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:spinosaurus.idle3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:spinosaurus.idle4",
+        "stream": false
+      }
+    ]
+  },
+  "spinosaurus.hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:spinosaurus.hurt1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:spinosaurus.hurt2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:spinosaurus.hurt3",
+        "stream": false
+      }
+    ]
+  },
+  "spinosaurus.attck": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:spinosaurus.attack1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:spinosaurus.attack2",
+        "stream": false
+      }
+    ]
+  },
+  "spinosaurus.death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:spinosaurus.death",
+        "stream": false
+      }
+    ]
+  },
+  "tyrannosaurus_rex.step": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:tyrannosaurus_rex.step",
+        "stream": false
+      }
+    ]
+  },
+  "tyrannosaurus_rex.attack": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:tyrannosaurus_rex.attack1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:tyrannosaurus_rex.attack2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:tyrannosaurus_rex.attack3",
+        "stream": false
+      }
+    ]
+  },
+  "tyrannosaurus_rex.death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:tyrannosaurus_rex.death",
+        "stream": false
+      }
+    ]
+  },
+  "tyrannosaurus_rex.hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:tyrannosaurus_rex.hurt1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:tyrannosaurus_rex.hurt2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:tyrannosaurus_rex.hurt3",
+        "stream": false
+      }
+    ]
+  },
+  "tyrannosaurus_rex.idle": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:tyrannosaurus_rex.idle1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:tyrannosaurus_rex.idle2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:tyrannosaurus_rex.idle3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:tyrannosaurus_rex.idle4",
+        "stream": false
+      }
+    ]
+  },
+  "wraith.idle": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:wraith.idle1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:wraith.idle2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:wraith.idle3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:wraith.idle4",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:wraith.idle5",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:wraith.idle6",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:wraith.leave",
+        "stream": false
+      }
+    ]
+  },
+  "wraith.leave": {
+    "category": "neutral",
+    "subtitle": "subtitles.wraith.leave",
+    "sounds": [
+      {
+        "name": "new_blocks:wraith.leave",
+        "stream": false
+      }
+    ]
+  },
+  "wraith.come": {
+    "category": "neutral",
+    "subtitle": "subtitles.wraith.come",
+    "sounds": [
+      {
+        "name": "new_blocks:wraith.come",
+        "stream": false
+      }
+    ]
+  },
+  "wraith.hurt": {
+    "category": "neutral",
+    "subtitle": "subtitles.wraith.hurt",
+    "sounds": [
+      {
+        "name": "new_blocks:wraith.hurt1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:wraith.hurt2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:wraith.hurt3",
+        "stream": false
+      }
+    ]
+  },
+  "wraith.death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:wraith.death1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:wraith.death2",
+        "stream": false
+      }
+    ]
+  },
+  "nothing.nothing": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:nothing",
+        "stream": false
+      }
+    ]
+  },
+  "thompsonshoot": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:gunthoshoot",
+        "stream": false
+      }
+    ]
+  },
+  "better_zombie_hurt": {
+    "category": "neutral",
+    "subtitle": "subtitles.better_zombie_hurt",
+    "sounds": [
+      {
+        "name": "new_blocks:better_zombie_hurt",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:better_zombie_hurt2",
+        "stream": false
+      }
+    ]
+  },
+  "better_zombie_groan": {
+    "category": "neutral",
+    "subtitle": "subtitles.better_zombie_groan",
+    "sounds": [
+      {
+        "name": "new_blocks:better_zombie_say",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:better_zombie_say2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:better_zombie_say3",
+        "stream": false
+      }
+    ]
+  },
+  "frog_idle": {
+    "category": "ambient",
+    "subtitle": "subtitles.frog_idle",
+    "sounds": [
+      {
+        "name": "new_blocks:frog_idle_1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:frog_idle_2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:frog_idle_3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:frog_idle_4",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:frog_idle_5",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:frog_idle_6",
+        "stream": false
+      }
+    ]
+  },
+  "frog_step": {
+    "category": "ambient",
+    "subtitle": "subtitles.frog_step",
+    "sounds": [
+      {
+        "name": "new_blocks:frog_step_1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:frog_step_2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:frog_step_3",
+        "stream": false
+      }
+    ]
+  },
+  "frog_hurt": {
+    "category": "ambient",
+    "subtitle": "subtitles.frog_hurt",
+    "sounds": [
+      {
+        "name": "new_blocks:frog_hurt_1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:frog_hurt_2",
+        "stream": false
+      }
+    ]
+  },
+  "frog_jump": {
+    "category": "ambient",
+    "subtitle": "subtitles.frog_jump",
+    "sounds": [
+      {
+        "name": "new_blocks:frog_jump_1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:frog_jump_2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:frog_jump_3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:frog_jump_4",
+        "stream": false
+      }
+    ]
+  },
+  "seal_idle": {
+    "category": "ambient",
+    "subtitle": "subtitles.seal_idle",
+    "sounds": [
+      {
+        "name": "new_blocks:seal_idle_1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:seal_idle_2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:seal_idle_3",
+        "stream": false
+      }
+    ]
+  },
+  "seal_hurt": {
+    "category": "ambient",
+    "subtitle": "subtitles.seal_hurt",
+    "sounds": [
+      {
+        "name": "new_blocks:seal_hurt_0",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:seal_hurt_1",
+        "stream": false
+      }
+    ]
+  },
+  "entity.warden.heartbeat": {
+    "category": "hostile",
+    "subtitle": "subtitles.entity.warden.heartbeat",
+    "sounds": [
+      {
+        "name": "new_blocks:warden_heartbeat2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:warden_heartbeat3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:warden_heartbeat4",
+        "stream": false
+      }
+    ]
+  },
+  "entity.warden.sniff": {
+    "category": "hostile",
+    "subtitle": "subtitles.entity.warden.sniff",
+    "sounds": [
+      {
+        "name": "new_blocks:warden_sniff1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:warden_sniff2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:warden_sniff3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:warden_sniff4",
+        "stream": false
+      }
+    ]
+  },
+  "warden.groan": {
+    "category": "hostile",
+    "subtitle": "subtitles.warden.groan",
+    "sounds": [
+      {
+        "name": "new_blocks:warden_idle1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:warden_idle10",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:warden_idle2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:warden_idle3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:warden_idle4",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:warden_idle5",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:warden_idle6",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:warden_idle7",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:warden_idle8",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:warden_idle9",
+        "stream": false
+      }
+    ]
+  },
+  "entity.warden.listen.angry": {
+    "category": "hostile",
+    "subtitle": "subtitles.entity.warden.listen.angry",
+    "sounds": [
+      {
+        "name": "new_blocks:warden_listening_angry1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:warden_listening_angry2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:warden_listening_angry3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:warden_listening_angry4",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:warden_listening_angry5",
+        "stream": false
+      }
+    ]
+  },
+  "warden.rage": {
+    "category": "hostile",
+    "subtitle": "subtitles.warden.rage",
+    "sounds": [
+      {
+        "name": "new_blocks:warden_angry4",
+        "stream": false
+      }
+    ]
+  },
+  "entity.warden.emerge": {
+    "category": "hostile",
+    "subtitle": "subtitles.entity.warden.emerge",
+    "sounds": [
+      {
+        "name": "new_blocks:warden_emerge",
+        "stream": false
+      }
+    ]
+  },
+  "warden.whine.sleep.sit": {
+    "category": "hostile",
+    "subtitle": "subtitles.warden.whine.sleep.sit",
+    "sounds": [
+      {
+        "name": "new_blocks:warden_idle6",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:warden_idle2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:warden_idle11",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:warden_idle8",
+        "stream": false
+      }
+    ]
+  },
+  "entity.ufo.beam.shoots": {
+    "category": "hostile",
+    "subtitle": "subtitles.entity.ufo.beam.shoots",
+    "sounds": [
+      {
+        "name": "new_blocks:swoop3",
+        "stream": false
+      }
+    ]
+  },
+  "block.dripstone.break": {
+    "category": "block",
+    "subtitle": "subtitles.block.dripstone.break",
+    "sounds": [
+      {
+        "name": "new_blocks:dripstone_break1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:dripstone_break2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:dripstone_break3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:dripstone_break4",
+        "stream": false
+      }
+    ]
+  },
+  "block.dripstone.step": {
+    "category": "block",
+    "subtitle": "subtitles.block.dripstone.step",
+    "sounds": [
+      {
+        "name": "new_blocks:dripstone_step1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:dripstone_step2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:dripstone_step3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:dripstone_step4",
+        "stream": false
+      }
+    ]
+  },
+  "block.dripstone.hit": {
+    "category": "block",
+    "subtitle": "subtitles.block.dripstone.hit",
+    "sounds": [
+      {
+        "name": "new_blocks:dripstone_breaking1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:dripstone_breaking2",
+        "stream": false
+      }
+    ]
+  },
+  "block.dripstone.place": {
+    "category": "block",
+    "subtitle": "subtitles.block.dripstone.place",
+    "sounds": [
+      {
+        "name": "new_blocks:dripstone_place",
+        "stream": false
+      }
+    ]
+  },
+  "allay_ambient2": {
+    "category": "ambient",
+    "subtitle": "subtitles.allay_ambient2",
+    "sounds": [
+      {
+        "name": "new_blocks:allay_ambient2",
+        "stream": false
+      }
+    ]
+  },
+  "allay_hurt2": {
+    "category": "ambient",
+    "subtitle": "subtitles.allay_hurt2",
+    "sounds": [
+      {
+        "name": "new_blocks:allay_hurt2",
+        "stream": false
+      }
+    ]
+  },
+  "allay_death2": {
+    "category": "ambient",
+    "subtitle": "subtitles.allay_death2",
+    "sounds": [
+      {
+        "name": "new_blocks:allay_death2",
+        "stream": false
+      }
+    ]
+  },
+  "sculpture_scrape2": {
+    "category": "hostile",
+    "subtitle": "subtitles.sculpture_scrape2",
+    "sounds": [
+      {
+        "name": "new_blocks:sculpture_walk1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:sculpture_walk2",
+        "stream": false
+      }
+    ]
+  },
+  "sculpture_scrape1": {
+    "category": "hostile",
+    "subtitle": "subtitles.sculpture_scrape1",
+    "sounds": [
+      {
+        "name": "new_blocks:sculpture_step",
+        "stream": false
+      }
+    ]
+  },
+  "sculpture_hurt": {
+    "category": "hostile",
+    "subtitle": "subtitles.sculpture_hurt",
+    "sounds": [
+      {
+        "name": "new_blocks:sculpture_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "sculpture_death": {
+    "category": "hostile",
+    "subtitle": "subtitles.sculpture_death",
+    "sounds": [
+      {
+        "name": "new_blocks:sculpture_death",
+        "stream": false
+      }
+    ]
+  },
+  "entity.goat.ambient": {
+    "category": "neutral",
+    "subtitle": "subtitles.entity.goat.ambient",
+    "sounds": [
+      {
+        "name": "new_blocks:goat_idle1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:goat_idle2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:goat_idle3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:goat_idle4",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:goat_idle5",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:goat_idle6",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:goat_idle7",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:goat_idle8",
+        "stream": false
+      }
+    ]
+  },
+  "entity.goat.death": {
+    "category": "neutral",
+    "subtitle": "subtitles.entity.goat.death",
+    "sounds": [
+      {
+        "name": "new_blocks:goat_death1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:goat_death2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:goat_death3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:goat_death4",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:goat_death5",
+        "stream": false
+      }
+    ]
+  },
+  "entity.goat.hurt": {
+    "category": "neutral",
+    "subtitle": "subtitles.entity.goat.hurt",
+    "sounds": [
+      {
+        "name": "new_blocks:goat_hurt1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:goat_hurt2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:goat_hurt3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:goat_hurt4",
+        "stream": false
+      }
+    ]
+  },
+  "entity.goat.step": {
+    "category": "neutral",
+    "subtitle": "subtitles.entity.goat.step",
+    "sounds": [
+      {
+        "name": "new_blocks:goat_step1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:goat_step2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:goat_step3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:goat_step4",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:goat_step5",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:goat_step6",
+        "stream": false
+      }
+    ]
+  },
+  "entity.goat.baby.ambient": {
+    "category": "neutral",
+    "subtitle": "subtitles.entity.goat.baby.ambient",
+    "sounds": [
+      {
+        "name": "new_blocks:baby_goat_idle3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:baby_goat_idle_1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:baby_goat_idle_2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:baby_goat_idle_4",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:baby_goat_idle_5",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:baby_goat_idle_6",
+        "stream": false
+      }
+    ]
+  },
+  "item.brush.brush": {
+    "category": "block",
+    "subtitle": "subtitles.item.brush.brush",
+    "sounds": [
+      {
+        "name": "new_blocks:brushing1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:brushing2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:brushing3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:brushing4",
+        "stream": false
+      }
+    ]
+  },
+  "block.coconut.hit.ground": {
+    "category": "block",
+    "subtitle": "subtitles.block.coconut.hit.ground",
+    "sounds": [
+      {
+        "name": "new_blocks:coconut_smash",
+        "stream": false
+      }
+    ]
+  },
+  "music.disc.coconut": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "new_blocks:music_disc_coconut",
+        "stream": true
+      }
+    ]
+  },
+  "entity.crab.ambient": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:coconut_crab_ambient",
+        "stream": false
+      }
+    ]
+  },
+  "entity.crab.death": {
+    "category": "neutral",
+    "subtitle": "subtitles.entity.crab.death",
+    "sounds": [
+      {
+        "name": "new_blocks:coconut_crab_death",
+        "stream": false
+      }
+    ]
+  },
+  "entity.crab.hurt": {
+    "category": "neutral",
+    "subtitle": "subtitles.entity.crab.hurt",
+    "sounds": [
+      {
+        "name": "new_blocks:coconut_crab_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "allay.noitem": {
+    "category": "neutral",
+    "subtitle": "subtitles.allay.noitem",
+    "sounds": [
+      {
+        "name": "new_blocks:allay_idle_without_item4",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:allay_idle_without_item3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:allay_idle_without_item2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:allay_idle_without_item1",
+        "stream": false
+      }
+    ]
+  },
+  "allay.dies": {
+    "category": "neutral",
+    "subtitle": "subtitles.allay.dies",
+    "sounds": [
+      {
+        "name": "new_blocks:allay_death1",
+        "stream": false
+      }
+    ]
+  },
+  "allay.hurts": {
+    "category": "neutral",
+    "subtitle": "subtitles.allay.hurts",
+    "sounds": [
+      {
+        "name": "new_blocks:allay_hurt2_1",
+        "stream": false
+      }
+    ]
+  },
+  "mud_break": {
+    "category": "block",
+    "subtitle": "subtitles.mud_break",
+    "sounds": [
+      {
+        "name": "new_blocks:mud_break1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:mud_break2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:mud_break3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:mud_break4",
+        "stream": false
+      }
+    ]
+  },
+  "mud_breaking": {
+    "category": "block",
+    "subtitle": "subtitles.mud_breaking",
+    "sounds": [
+      {
+        "name": "new_blocks:mud_break1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:mud_break2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:mud_break3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:mud_break4",
+        "stream": false
+      }
+    ]
+  },
+  "mud_step": {
+    "category": "block",
+    "subtitle": "subtitles.mud_step",
+    "sounds": [
+      {
+        "name": "new_blocks:mud_step1",
+        "stream": false
+      }
+    ]
+  },
+  "mud_place": {
+    "category": "block",
+    "subtitle": "subtitles.mud_place",
+    "sounds": [
+      {
+        "name": "new_blocks:mud_break1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:mud_break2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:mud_break3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:mud_break4",
+        "stream": false
+      }
+    ]
+  },
+  "entity.raccoon.hurt": {
+    "category": "neutral",
+    "subtitle": "subtitles.entity.raccoon.hurt",
+    "sounds": [
+      {
+        "name": "new_blocks:raccoon_hurt_1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:raccoon_hurt_0",
+        "stream": false
+      }
+    ]
+  },
+  "entity.raccoon.idle": {
+    "category": "neutral",
+    "subtitle": "subtitles.entity.raccoon.idle",
+    "sounds": [
+      {
+        "name": "new_blocks:raccoon_idle_0",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:raccoon_idle_1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:raccoon_idle_2",
+        "stream": false
+      }
+    ]
+  },
+  "elephant.idle": {
+    "category": "neutral",
+    "subtitle": "subtitles.elephant.idle",
+    "sounds": [
+      {
+        "name": "new_blocks:elephant_idle_0",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:elephant_idle_1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:elephant_idle_2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:elephant_idle_4",
+        "stream": false
+      }
+    ]
+  },
+  "elephant.die": {
+    "category": "neutral",
+    "subtitle": "subtitles.elephant.die",
+    "sounds": [
+      {
+        "name": "new_blocks:elephant_die_0",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:elephant_die_1",
+        "stream": false
+      }
+    ]
+  },
+  "elephant.walk": {
+    "category": "neutral",
+    "subtitle": "subtitles.elephant.walk",
+    "sounds": [
+      {
+        "name": "new_blocks:elephant_walk_0",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:elephant_walk_1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:elephant_walk_2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:elephant_walk_3",
+        "stream": false
+      }
+    ]
+  },
+  "elephant.hurt": {
+    "category": "neutral",
+    "subtitle": "subtitles.elephant.hurt",
+    "sounds": [
+      {
+        "name": "new_blocks:elephant_hurt_0",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:elephant_hurt_1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:elephant_hurt_2",
+        "stream": false
+      }
+    ]
+  },
+  "elephant.trumpet": {
+    "category": "neutral",
+    "subtitle": "subtitles.elephant.trumpet",
+    "sounds": [
+      {
+        "name": "new_blocks:elephant_trumpet_0",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:elephant_trumpet_1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:elephant_trumpet_2",
+        "stream": false
+      }
+    ]
+  },
+  "nuke_caller_typing": {
+    "category": "player",
+    "subtitle": "subtitles.nuke_caller_typing",
+    "sounds": [
+      {
+        "name": "new_blocks:nuke_caller_type",
+        "stream": false
+      }
+    ]
+  },
+  "nuke_incoming": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "new_blocks:nuke_incoming",
+        "stream": false
+      }
+    ]
+  },
+  "geigar_counter_clicking": {
+    "category": "master",
+    "subtitle": "subtitles.geigar_counter_clicking",
+    "sounds": [
+      {
+        "name": "new_blocks:radiation_high_3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:radiation_high_2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:radiation_high_1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:radiation_medium_4",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:radiation_medium_3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:radiation_medium_2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:radiation_medium_1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:radiation_low_4",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:radiation_low_3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:radiation_low_2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:radiation_low_1",
+        "stream": false
+      }
+    ]
+  },
+  "portal_gun": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "new_blocks:portal_gun_sound",
+        "stream": false
+      }
+    ]
+  },
+  "snowmobile_idle": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "new_blocks:snowmobile_idle",
+        "stream": false
+      }
+    ]
+  },
+  "snowmobile_moving": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "new_blocks:snowmobile_moving",
+        "stream": false
+      }
+    ]
+  },
+  "cart_roll": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "new_blocks:wheels_roll",
+        "stream": false
+      }
+    ]
+  },
+  "scientist_idle": {
+    "category": "hostile",
+    "subtitle": "subtitles.scientist_idle",
+    "sounds": [
+      {
+        "name": "new_blocks:scientist_idle_3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:scientist_idle_2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:scientist_idle_1",
+        "stream": false
+      }
+    ]
+  },
+  "peashooter.hurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "new_blocks:peashooter.hurt1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:peashooter.hurt2",
+        "stream": false
+      }
+    ]
+  },
+  "amethyst.place": {
+    "category": "block",
+    "subtitle": "subtitles.amethyst.place",
+    "sounds": [
+      {
+        "name": "new_blocks:amethyst_place1",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:amethyst_place2",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:amethyst_place3",
+        "stream": false
+      },
+      {
+        "name": "new_blocks:amethyst_place4",
+        "stream": false
+      }
+    ]
+  }
+}
